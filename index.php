@@ -19,6 +19,8 @@ get_header(); ?>
 
 <!--Testing the repo update-->
 <!--Testing the repo update-->
+<!--Testing the repo update-->
+<!--Testing the repo update-->
 
 <div class="wrap">
 	<?php if ( is_home() && ! is_front_page() ) : ?>
